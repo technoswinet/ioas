@@ -8,3 +8,5 @@ The flow and control of the pixels, are adjusted according to the health of your
 Any unhealthy actions calculated from your hardware, will be painted, and noticed.
 
 If you are having issues, regarding Memory or bad CPU, this program could help you solve the troubleshooting.
+
+![alt text](https://i.gyazo.com/68068803e50bb85b90d4c8c3d70f8915.png)
