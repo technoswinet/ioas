@@ -1,1 +1,10 @@
+Visual functions 
 
+
+(pillarFromPoint)
+
+(pillarToptoBot)
+(pillarBottoTop)
+
+(pillarLefttoRight)
+(pillarRighttoLeft)
