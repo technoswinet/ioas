@@ -10,3 +10,4 @@ Any unhealthy actions calculated from your hardware, will be painted, and notice
 If you are having issues, regarding Memory or bad CPU, this program could help you solve the troubleshooting.
 
 ![alt text](https://i.gyazo.com/68068803e50bb85b90d4c8c3d70f8915.png)
+![alt text](https://i.gyazo.com/294f92902faffbcfda2c42fbf0e923f9.png)
