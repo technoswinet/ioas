@@ -14,4 +14,4 @@ Overall scan mesh
 Scan and system visualized
 ![alt text](https://i.gyazo.com/294f92902faffbcfda2c42fbf0e923f9.png)
 Scan and system health results visualized
-![alt text](https://i.gyazo.com/4bb3d8674a5ae7c482267c1356d637f3.png)
+![alt text](https://i.gyazo.com/5affbfe6bf9f1ce27e330efa62b60665.png)
